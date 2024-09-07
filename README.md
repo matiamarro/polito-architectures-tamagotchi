@@ -9,4 +9,4 @@ Some requirements:
 - cuddle animation when tamagotchi is touch from the touch display
 - some sounds, little melodies to play during animations with the volume control through the potentiometer
 
-[Watch the video](./video/shortdemo.mp4)
+<img src="./video/demovideo.gif" alt="Demo GIF" width="300"/>
